@@ -1,0 +1,16 @@
+.DogCard {
+	width: 201px;
+	border: 1px solid black;
+	margin: 1rem;
+	text-align: center;
+}
+
+.DogCard-img {
+	width: 200px;
+	padding-bottom: 0;
+}
+
+.DogCard hr {
+	padding-top: 0;
+	margin-top: 0;
+}
